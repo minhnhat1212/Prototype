@@ -83,7 +83,7 @@ export function GridFilterHeader({
         </div>
 
         <h1 className="banner-page-title">
-          DANH SÁCH TỔNG HỢP ĐĂNG KÝ LÀM NGOÀI GIỜ
+          DANH SÁCH TỔNG HỢP ĐƠN NGHỈ PHÉP/CÔNG TÁC
         </h1>
       </div>
 
