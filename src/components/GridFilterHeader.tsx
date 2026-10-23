@@ -78,7 +78,7 @@ export function GridFilterHeader({
             <span className="bc-sep">›</span>
             <span className="bc-item">Làm ngoài giờ</span>
             <span className="bc-sep">›</span>
-            <span className="bc-current">Danh sách tổng hợp đăng ký làm ngoài giờ</span>
+            <span className="bc-current">DANH SÁCH TỔNG HỢP ĐƠN NGHỈ PHÉP/CÔNG TÁC</span>
           </div>
         </div>
 
